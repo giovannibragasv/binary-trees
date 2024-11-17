@@ -27,6 +27,6 @@ Nesse projeto, foram utilizadas algumas tecnologias a fim de ajudar na visualiza
 
 ## Equipe
 Para realização do projeto, juntamos uma equipe, e dividimos forças para alcançar uma boa estrutura, trabalhando em conjunto quando necessário, e ajudando uns aos outros. A equipe contou com:
-  * Giovanni Braga S. Vasconcelos - Criação de Algorítmos
+  * Giovanni Braga S. Vasconcelos - Criação de Algorítmos das árvores AVL e RBT.
   * Antonio Heitor Gomes Azevedo - XXXXXXX
   * Caua Maia de Souza Nara - XXXXXXXX
